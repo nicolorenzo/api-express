@@ -11,3 +11,7 @@ O primeiro passo para trabalhar com API's é entender como funcionam as requisi�
 ## Consumindo API's
 
 Podemos utilizar a biblioteca NodeJS [Axios](https://www.npmjs.com/package/axios) para trabalhar com requisições http através do navegador. No arquivo `axios.js` eu utilizo a API do GitHub como exemplo.
+
+## API no Front-End com Fetch
+
+No arquivo `fetch.js` eu utilizo a [NodeJS Simple API](https://github.com/jakeliny/node-api-discover) para fazer operações GET, POST, PUT e DELETE através do fetch.
